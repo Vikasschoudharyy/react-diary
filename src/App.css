@@ -1,0 +1,12 @@
+ body {
+     background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1))
+ }
+.imgctrl{
+    max-width: 400px;
+    height: 300px;
+}
+
+.bodyctrl{
+    height: 12rem;
+   
+}
